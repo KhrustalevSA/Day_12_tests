@@ -55,9 +55,4 @@ class CalculatorTest {
 
         }
     }
-
-    @Test
-    void div1() {
-        fail();
-    }
 }
